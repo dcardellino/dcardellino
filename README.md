@@ -16,7 +16,7 @@ Started as a Windows System Administrator. Played buzzword bingo to become a Dev
 ### Skills
 
 <p align="left">
-<a href="https://terraform.io" target="_blank" rel="noreferrer"><img src="https://trustedshops-site-bucket.sos-de-fra-1.exoscale-cdn.com/site/svg/trusted-shops-techstack-terraform-logo.svg" width="36" height="36" alt="C" /></a>
+<a href="https://terraform.io" target="_blank" rel="noreferrer"><img src="https://trustedshops-site-bucket.sos-de-fra-1.exoscale-cdn.com/site/svg/trusted-shops-techstack-terraform-logo.svg" width="45" height="45" alt="Terraform" /></a>
 </p>
 
 
