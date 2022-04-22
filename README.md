@@ -17,11 +17,7 @@ Started as a Windows System Administrator. Played buzzword bingo to become a Dev
 
 <p align="left">
 <a href="https://terraform.io" target="_blank" rel="noreferrer"><img src="https://trustedshops-site-bucket.sos-de-fra-1.exoscale-cdn.com/site/svg/trusted-shops-techstack-terraform-logo.svg" width="45" height="45" alt="Terraform" /></a>
-</p>
-<p align="left">
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" width="45" height="45" alt="Kubernetes" /></a>
-</p>
-<p align="left">
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png" width="45" height="45" alt="Ansible" /></a>
 </p>
 
