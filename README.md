@@ -7,7 +7,7 @@ Kubernetes Engineer
 Started as a Windows System Administrator. Played buzzword bingo to become a DevOps 👨🏽‍💻
 
 * 🌍  I'm based in Stuttgart, Germany
-* 🖥️  See my portfolio at [https://domrocco.de](http://domrocco.de)
+* 🖥️  See my portfolio at [https://domrocco.de](https://domrocco.de)
 * ✉️  You can contact me at [dominic@cardellino.tech](mailto:dominic@cardellino.tech)
 * 🏋🏼 Gym Addicted
 * 🚵🏼 Mountain Biker
@@ -16,9 +16,11 @@ Started as a Windows System Administrator. Played buzzword bingo to become a Dev
 ### Skills
 
 <p align="left">
-<a href="https://terraform.io" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/mdi/terraform.svg" width="45" height="45" alt="Terraform" /></a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" width="45" height="45" alt="Kubernetes" /></a>
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png" width="45" height="45" alt="Ansible" /></a>
+<a href="https://terraform.io" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/terraform-icon.svg" width="45" height="45" alt="Terraform" /></a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/kubernetes.svg" width="45" height="45" alt="Kubernetes" /></a>
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/ansible.svg" width="45" height="45" alt="Ansible" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/python.svg" width="45" height="45" alt="Python" /></a>
+<a href="https://www.go.dev/" target="_blank" rel="noreferrer"><img src="https://api.iconify.design/logos/go.svg" width="45" height="45" alt="Golang" /></a>
 </p>
 
 ### Socials
