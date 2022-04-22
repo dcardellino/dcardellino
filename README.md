@@ -13,6 +13,12 @@ Started as a Windows System Administrator. Played buzzword bingo to become a Dev
 * 🚵🏼 Mountain Biker
 * 📱 Tech Fanatic
 
+### Skills
+
+<p align="left">
+<a href="https://terraform.io" target="_blank" rel="noreferrer"><img src="https://www.gonicus.de/img/news/figures/Terraform_VerticalLogo_FullColor.png" width="36" height="36" alt="C" /></a>
+</p>
+
 
 ### Socials
 
